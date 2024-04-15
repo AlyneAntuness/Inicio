@@ -2,4 +2,4 @@
  Primeiro Repositório
  
  
- Criando repositóriocom o Guanabara!
+ Criando repositório com o Guanabara!
